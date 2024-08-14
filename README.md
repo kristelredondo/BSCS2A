@@ -1,1 +1,2 @@
-# BSCS2A
+# Kristel A. Redondo
+# Software Engineering
